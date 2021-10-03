@@ -199,6 +199,15 @@
     "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain"
   },
   {
+    "title": "PyPI logo.svg",
+    "url": "https://en.wikipedia.org/wiki/File:PyPI_logo.svg",
+    "urlDate": "2021-10-03",
+    "author": "Python Packaging Authority / Python Software Foundation",
+    "authorUrl": "https://pypi.org/",
+    "license": "GNU General Public License",
+    "licenseUrl": "https://en.wikipedia.org/wiki/GNU_General_Public_License"
+  },
+  {
     "title": "Python logo and wordmark.svg",
     "url": "https://commons.wikimedia.org/wiki/File:Python_logo_and_wordmark.svg",
     "urlDate": "2021-08-01",
