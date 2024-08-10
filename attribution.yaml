@@ -1,5 +1,14 @@
 attribution:
   - {
+      author: Astral,
+      author-site: "https://github.com/astral-sh",
+      license: MIT,
+      license-url: "https://github.com/astral-sh/rye/blob/main/LICENSE",
+      permalink: "https://github.com/astral-sh/rye/blob/main/docs/static/favicon.svg",
+      permalink-date: 2024-08-03,
+      name: Rye Logo,
+    }
+  - {
       author: Google Inc,
       author-site: "https://www.google.com/",
       license: CC BY 3.0,
