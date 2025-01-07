@@ -219,3 +219,12 @@ attribution:
       permalink-date: 2024-01-29,
       name: Hatch Logo,
     }
+  - {
+      author: Astral,
+      author-site: "https://astral.sh/",
+      license: MIT,
+      license-url: "https://github.com/astral-sh/uv/blob/main/LICENSE-MIT",
+      permalink: "https://docs.astral.sh/uv/assets/logo-letter.svg",
+      permalink-date: 2025-01-07,
+      name: Hatch Logo,
+    }
